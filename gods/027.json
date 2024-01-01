@@ -1,0 +1,12 @@
+{
+  "id": "027",
+  "name": "Yasen",
+  "description": "God of ash trees and spring growth.",
+  "attributes": {
+    "Domains": ["Trees", "Spring", "Growth"],
+    "Symbols": ["Ash Tree", "Budding Branches"],
+    "Element": "Earth",
+    "Associated Season": "Spring"
+  },
+  "image": "Image_Link_For_Yasen"
+}

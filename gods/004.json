@@ -1,0 +1,12 @@
+{
+  "id": "004",
+  "name": "Veles",
+  "description": "God of earth, waters, forests, and the underworld.",
+  "attributes": {
+    "Domains": ["Cattle", "Commerce", "Underworld", "Magic"],
+    "Symbols": ["Horn", "Bear"],
+    "Sacred Animals": ["Bear", "Wolf", "Cattle"],
+    "Element": "Water"
+  },
+  "image": "Image_Link_For_Veles"
+}

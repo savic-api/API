@@ -1,0 +1,12 @@
+{
+  "id": "026",
+  "name": "Roda",
+  "description": "Goddess of fertility, motherhood, and family.",
+  "attributes": {
+    "Domains": ["Fertility", "Motherhood", "Family"],
+    "Symbols": ["Hearth", "Sheaf of Wheat"],
+    "Element": "Earth",
+    "Associated Concepts": ["Protection", "Nurture"]
+  },
+  "image": "Image_Link_For_Roda"
+}

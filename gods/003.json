@@ -1,0 +1,12 @@
+{
+  "id": "003",
+  "name": "Mokosh",
+  "description": "Goddess of fertility, weaving, women, and moisture.",
+  "attributes": {
+    "Domains": ["Fertility", "Weaving", "Women's Destiny"],
+    "Symbols": ["Spindle", "Sheaf of Wheat"],
+    "Element": "Earth",
+    "Associated Plants": ["Flax", "Wheat"]
+  },
+  "image": "Image_Link_For_Mokosh"
+}

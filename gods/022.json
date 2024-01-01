@@ -1,0 +1,12 @@
+{
+  "id": "022",
+  "name": "Zhiva",
+  "description": "Goddess of life, nature, and vitality.",
+  "attributes": {
+    "Domains": ["Life", "Nature", "Vitality"],
+    "Symbols": ["Flower", "Sunlight"],
+    "Element": "Earth",
+    "Associated Concepts": ["Growth", "Health"]
+  },
+  "image": "Image_Link_For_Zhiva"
+}

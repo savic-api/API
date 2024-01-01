@@ -1,0 +1,12 @@
+{
+  "id": "006",
+  "name": "Domovoi",
+  "description": "Household spirit, guardian of the home and family.",
+  "attributes": {
+    "Domains": ["Home", "Family", "Protection"],
+    "Symbols": ["House", "Beard"],
+    "Element": "Earth",
+    "Associated Concepts": ["Ancestry", "Hearth"]
+  },
+  "image": "Image_Link_For_Domovoi"
+}

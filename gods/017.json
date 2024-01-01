@@ -1,0 +1,12 @@
+{
+  "id": "017",
+  "name": "Domovina",
+  "description": "Personification of the homeland, protector of the nation.",
+  "attributes": {
+    "Domains": ["Homeland", "Protection", "Unity"],
+    "Symbols": ["Flag", "Shield"],
+    "Element": "Earth",
+    "Associated Concepts": ["Nation", "Culture"]
+  },
+  "image": "Image_Link_For_Domovina"
+}

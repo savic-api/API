@@ -1,0 +1,12 @@
+{
+  "id": "030",
+  "name": "Dobrovij",
+  "description": "Deity associated with goodness and benevolence.",
+  "attributes": {
+    "Domains": ["Goodness", "Benevolence", "Support"],
+    "Symbols": ["Heart", "Open Hands"],
+    "Element": "Earth",
+    "Associated Concepts": ["Charity", "Kindness"]
+  },
+  "image": "Image_Link_For_Dobrovij"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "012",
+  "name": "Baba Yaga",
+  "description": "A powerful witch with knowledge of dark magic.",
+  "attributes": {
+    "Domains": ["Magic", "Forests", "Witchcraft"],
+    "Symbols": ["Mortar and Pestle", "Hut"],
+    "Element": "Earth",
+    "Associated Concepts": ["Wisdom", "Mystery"]
+  },
+  "image": "Image_Link_For_Baba_Yaga"
+}

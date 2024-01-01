@@ -1,0 +1,12 @@
+{
+  "id": "024",
+  "name": "Triglav",
+  "description": "Deity with three heads representing different realms.",
+  "attributes": {
+    "Domains": ["Sky", "Earth", "Underworld"],
+    "Symbols": ["Three Heads", "Three Realms"],
+    "Element": "All Elements",
+    "Associated Concepts": ["Unity", "Trinity"]
+  },
+  "image": "Image_Link_For_Triglav"
+}

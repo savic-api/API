@@ -1,0 +1,12 @@
+{
+  "id": "013",
+  "name": "Kupala and Kupalo",
+  "description": "Deities of summer solstice, fertility, and joy.",
+  "attributes": {
+    "Domains": ["Summer Solstice", "Fertility", "Joy"],
+    "Symbols": ["Fire", "Water"],
+    "Element": "Fire and Water",
+    "Associated Season": "Summer"
+  },
+  "image": "Image_Link_For_Kupala_Kupalo"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "028",
+  "name": "Lada",
+  "description": "Goddess of beauty, love, and harmony.",
+  "attributes": {
+    "Domains": ["Beauty", "Love", "Harmony"],
+    "Symbols": ["Rose", "Mirror"],
+    "Element": "Air",
+    "Associated Concepts": ["Attraction", "Peace"]
+  },
+  "image": "Image_Link_For_Lada"
+}

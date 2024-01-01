@@ -1,0 +1,12 @@
+{
+  "id": "014",
+  "name": "Stribog",
+  "description": "God of wind, air, and the sky.",
+  "attributes": {
+    "Domains": ["Wind", "Air", "Sky"],
+    "Symbols": ["Wind", "Cloud"],
+    "Element": "Air",
+    "Associated Concepts": ["Movement", "Change"]
+  },
+  "image": "Image_Link_For_Stribog"
+}

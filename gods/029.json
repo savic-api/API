@@ -1,0 +1,12 @@
+{
+  "id": "029",
+  "name": "Dnipro",
+  "description": "Deity personifying the Dnieper River.",
+  "attributes": {
+    "Domains": ["River", "Flow", "Life"],
+    "Symbols": ["Water", "Reed"],
+    "Element": "Water",
+    "Associated Concepts": ["Movement", "Nourishment"]
+  },
+  "image": "Image_Link_For_Dnipro"
+}

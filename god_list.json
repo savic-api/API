@@ -1,0 +1,184 @@
+{
+  "gods": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "description": "Slavic god of thunder and lightning",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "002",
+      "name": "Dazhbog",
+      "description": "God of the sun and giver of wealth",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "003",
+      "name": "Mokosh",
+      "description": "Goddess of fertility and protector of women",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "description": "God of cattle, commerce, and the underworld",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "description": "Primordial deity, creator of the universe",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "006",
+      "name": "Domovoi",
+      "description": "Household spirit, protector of the home",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "description": "Personification of winter, frost, and cold",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "008",
+      "name": "Zorya",
+      "description": "Two goddesses representing morning and evening stars",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "009",
+      "name": "Chernobog",
+      "description": "God of darkness, evil, and misfortune",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "description": "God of fire, blacksmithing, and the sun",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna",
+      "description": "Goddess of winter, death, and rebirth",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "012",
+      "name": "Baba Yaga",
+      "description": "Witch with supernatural powers",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "013",
+      "name": "Kupala and Kupalo",
+      "description": "Deities associated with the summer solstice",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "description": "God of wind, air, and sky",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "015",
+      "name": "Leshy",
+      "description": "Spirit of the forest",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka",
+      "description": "Water nymph or mermaid-like creature",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "description": "Personification of the homeland or motherland",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "description": "God of spring, fertility, and the harvest",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "019",
+      "name": "Dolya and Sudba",
+      "description": "Figures representing fate and destiny",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "description": "Mythical creature, often depicted as a winged dog or lion",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "description": "Lesser-known figure, wise and venerable",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "022",
+      "name": "Zhiva",
+      "description": "Goddess of life, fertility, and nature",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "023",
+      "name": "Divi",
+      "description": "Associated with the wild, untamed aspects of nature",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "024",
+      "name": "Triglav",
+      "description": "Deity with three heads symbolizing sky, earth, and underworld",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "025",
+      "name": "Zhivini Pole",
+      "description": "Mythical location, a magical field or meadow",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "description": "Goddess of fertility, motherhood, and family",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "027",
+      "name": "Yasen",
+      "description": "God of ash and spring trees",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "description": "Goddess of beauty, love, and harmony",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "029",
+      "name": "Dnipro",
+      "description": "Personification of the Dnieper River",
+      "image": "Image_Link_Here"
+    },
+    {
+      "id": "030",
+      "name": "Dobrovij",
+      "description": "Deity associated with goodness and benevolence",
+      "image": "Image_Link_Here"
+    }
+  ]
+}
