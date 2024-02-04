@@ -1,0 +1,12 @@
+{
+  "id": "025",
+  "name": "Zhivini Pole",
+  "description": "Mytické pole nebo louka, symbolizující hojnost a magii.",
+  "attributes": {
+    "Domains": ["Hojnost", "Příroda", "Magie"],
+    "Symbols": ["Louka", "Divoké květiny"],
+    "Element": "Země",
+    "Associated Concepts": ["Plodnost", "Prosperita"]
+  },
+  "detailImageUrl": "images/deities/025/detailImage.png"
+}

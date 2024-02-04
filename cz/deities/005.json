@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "name": "Rod",
+  "description": "Prapůvodní stvořitelská božstvo, předek všech bytostí a bohů.",
+  "attributes": {
+    "Domains": ["Stvoření", "Předkové", "Kosmos"],
+    "Symbols": ["Kosmické vejce", "Strom života"],
+    "Element": "Éter",
+    "Associated Concepts": ["Osud", "Prozřetelnost"]
+  },
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

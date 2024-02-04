@@ -1,0 +1,12 @@
+{
+  "id": "018",
+  "name": "Ярило",
+  "description": "Бог весни, плодючості та врожаю.",
+  "attributes": {
+    "Domains": ["Весна", "Плодючість", "Врожай"],
+    "Symbols": ["Зелень", "Пшениця"],
+    "Element": "Земля",
+    "Associated Season": "Весна"
+  },
+  "detailImageUrl": "images/deities/018/detailImage.png"
+}

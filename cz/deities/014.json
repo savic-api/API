@@ -1,0 +1,12 @@
+{
+  "id": "014",
+  "name": "Stribog",
+  "description": "Bůh větru, vzduchu a nebe.",
+  "attributes": {
+    "Domains": ["Vítr", "Vzduch", "Nebe"],
+    "Symbols": ["Vítr", "Oblak"],
+    "Element": "Vzduch",
+    "Associated Concepts": ["Pohyb", "Změna"]
+  },
+  "detailImageUrl": "images/deities/014/detailImage.png"
+}

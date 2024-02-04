@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "name": "Rod",
+  "description": "Prapoczątkowa bóstwo twórcze, przodek wszystkich istot i bogów.",
+  "attributes": {
+    "Domains": ["Stworzenie", "Przodkowie", "Kosmos"],
+    "Symbols": ["Kosmiczne Jajo", "Drzewo Życia"],
+    "Element": "Eter",
+    "Associated Concepts": ["Los", "Opatrzność"]
+  },
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

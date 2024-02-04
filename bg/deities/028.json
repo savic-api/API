@@ -1,0 +1,12 @@
+{
+  "id": "028",
+  "name": "Лада",
+  "description": "Богиня на красотата, любовта и хармонията.",
+  "attributes": {
+    "Domains": ["Красота", "Любов", "Хармония"],
+    "Symbols": ["Роза", "Огледало"],
+    "Element": "Въздух",
+    "Associated Concepts": ["Привличане", "Мир"]
+  },
+  "detailImageUrl": "images/deities/028/detailImage.png"
+}

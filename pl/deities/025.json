@@ -1,0 +1,12 @@
+{
+  "id": "025",
+  "name": "Żywińskie Pole",
+  "description": "Mityczne pole lub łąka symbolizująca obfitość i magię.",
+  "attributes": {
+    "Domains": ["Obfitość", "Natura", "Magia"],
+    "Symbols": ["Łąka", "Dzikie kwiaty"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Płodność", "Dobrobyt"]
+  },
+  "detailImageUrl": "images/deities/025/detailImage.png"
+}

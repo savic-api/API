@@ -1,0 +1,12 @@
+{
+  "id": "029",
+  "name": "Dniepr",
+  "description": "Bóstwo personifikujące rzekę Dniepr.",
+  "attributes": {
+    "Domains": ["Rzeka", "Przepływ", "Życie"],
+    "Symbols": ["Woda", "Trzcina"],
+    "Element": "Woda",
+    "Associated Concepts": ["Ruch", "Odżywianie"]
+  },
+  "detailImageUrl": "images/deities/029/detailImage.png"
+}

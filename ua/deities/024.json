@@ -1,0 +1,12 @@
+{
+  "id": "024",
+  "name": "Триглав",
+  "description": "Божество з трьома головами, яке представляє різні царства.",
+  "attributes": {
+    "Domains": ["Небо", "Земля", "Підземний світ"],
+    "Symbols": ["Три Голови", "Три Царства"],
+    "Element": "Усі Елементи",
+    "Associated Concepts": ["Єдність", "Трійця"]
+  },
+  "detailImageUrl": "images/deities/024/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "001",
+  "name": "Перун",
+  "description": "Слов'янський бог грому та блискавки. Захисник воїнів.",
+  "attributes": {
+    "Domains": ["Грім", "Блискавка", "Війна", "Закон", "Небо"],
+    "Symbols": ["Сокира", "Громовиця", "Орел"],
+    "Sacred Animals": ["Орел"],
+    "Element": "Повітря"
+  },
+  "detailImageUrl": "images/deities/001/detailImage.png"
+}

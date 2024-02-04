@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "name": "Рід",
+  "description": "Первісний бог-творець, предок усіх істот і богів.",
+  "attributes": {
+    "Domains": ["Створення", "Предки", "Космос"],
+    "Symbols": ["Космічне яйце", "Дерево життя"],
+    "Element": "Ефір",
+    "Associated Concepts": ["Доля", "Провидіння"]
+  },
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

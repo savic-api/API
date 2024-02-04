@@ -1,0 +1,12 @@
+{
+  "id": "019",
+  "name": "Dolya a Sudba",
+  "description": "Postavy reprezentující osud a předurčení.",
+  "attributes": {
+    "Domains": ["Osud", "Předurčení", "Životní cesta"],
+    "Symbols": ["Nit", "Váhy"],
+    "Element": "Éter",
+    "Associated Concepts": ["Náhoda", "Předurčení"]
+  },
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

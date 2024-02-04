@@ -1,0 +1,12 @@
+{
+  "id": "004",
+  "name": "Weles",
+  "description": "Bóg ziemi, wód, lasów i podziemia.",
+  "attributes": {
+    "Domains": ["Bydło", "Handel", "Podziemie", "Magia"],
+    "Symbols": ["Róg", "Niedźwiedź"],
+    "Sacred Animals": ["Niedźwiedź", "Wilk", "Bydło"],
+    "Element": "Woda"
+  },
+  "detailImageUrl": "images/deities/004/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "008",
+  "name": "Zorya",
+  "description": "Two goddesses representing the morning and evening stars.",
+  "attributes": {
+    "Domains": ["Morning Star", "Evening Star", "Protection"],
+    "Symbols": ["Stars", "Celestial Light"],
+    "Element": "Sky",
+    "Associated Concepts": ["Guidance", "Transition"]
+  },
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}

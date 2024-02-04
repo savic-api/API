@@ -1,0 +1,12 @@
+{
+  "id": "021",
+  "name": "Wiesław",
+  "description": "Mądra postać reprezentująca słowiańskie dziedzictwo i mądrość.",
+  "attributes": {
+    "Domains": ["Mądrość", "Dziedzictwo", "Tradycja"],
+    "Symbols": ["Księga", "Starożytny Skrypt"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Wiedza", "Przodkowie"]
+  },
+  "detailImageUrl": "images/deities/021/detailImage.png"
+}

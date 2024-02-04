@@ -1,0 +1,12 @@
+{
+  "id": "023",
+  "name": "Діві",
+  "description": "Асоціюється з первісними аспектами природи та дикості.",
+  "attributes": {
+    "Domains": ["Дикість", "Природа", "Свобода"],
+    "Symbols": ["Неконтрольована земля", "Дикі тварини"],
+    "Element": "Земля",
+    "Associated Concepts": ["Непередбачуваність", "Сира природа"]
+  },
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

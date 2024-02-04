@@ -1,0 +1,12 @@
+{
+  "id": "030",
+  "name": "Dobrowit",
+  "description": "Bóstwo związane z dobrocią i życzliwością.",
+  "attributes": {
+    "Domains": ["Dobroć", "Życzliwość", "Wsparcie"],
+    "Symbols": ["Serce", "Otwarte Dłonie"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Charytatywność", "Dobroć"]
+  },
+  "detailImageUrl": "images/deities/030/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "019",
+  "name": "Dolya and Sudba",
+  "description": "Figures representing fate and destiny.",
+  "attributes": {
+    "Domains": ["Fate", "Destiny", "Life Path"],
+    "Symbols": ["Thread", "Scales"],
+    "Element": "Aether",
+    "Associated Concepts": ["Chance", "Predetermination"]
+  },
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "023",
+  "name": "Dziki",
+  "description": "Związany z pierwotnymi aspektami natury i dziczy.",
+  "attributes": {
+    "Domains": ["Dzicz", "Natura", "Wolność"],
+    "Symbols": ["Nieujarzmiona Ziemia", "Dzikie Zwierzęta"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Nieprzewidywalność", "Surowa Natura"]
+  },
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

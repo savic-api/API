@@ -1,0 +1,12 @@
+{
+  "id": "027",
+  "name": "Ясен",
+  "description": "Бог ясеневих дерев та весняного зростання.",
+  "attributes": {
+    "Domains": ["Дерева", "Весна", "Зростання"],
+    "Symbols": ["Ясеневе дерево", "Пробуджені гілки"],
+    "Element": "Земля",
+    "Associated Season": "Весна"
+  },
+  "detailImageUrl": "images/deities/027/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "022",
+  "name": "Жива",
+  "description": "Богиня на живота, природата и жизнеността.",
+  "attributes": {
+    "Domains": ["Живот", "Природа", "Жизненост"],
+    "Symbols": ["Цвете", "Слънчева светлина"],
+    "Element": "Земя",
+    "Associated Concepts": ["Растеж", "Здраве"]
+  },
+  "detailImageUrl": "images/deities/022/detailImage.png"
+}

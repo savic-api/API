@@ -1,0 +1,12 @@
+{
+  "id": "020",
+  "name": "Simargl",
+  "description": "Mythical creature, often depicted as a winged dog or lion.",
+  "attributes": {
+    "Domains": ["Protection", "Guardianship"],
+    "Symbols": ["Wings", "Lion"],
+    "Element": "Air",
+    "Associated Concepts": ["Guardian", "Strength"]
+  },
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "013",
+  "name": "Купала та Купало",
+  "description": "Божества літнього сонцестояння, плодючості та радості.",
+  "attributes": {
+    "Domains": ["Літнє сонцестояння", "Плодючість", "Радість"],
+    "Symbols": ["Вогонь", "Вода"],
+    "Element": "Вогонь та Вода",
+    "Associated Season": "Літо"
+  },
+  "detailImageUrl": "images/deities/013/detailImage.png"
+}

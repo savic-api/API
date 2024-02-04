@@ -1,0 +1,12 @@
+{
+  "id": "003",
+  "name": "Mokosz",
+  "description": "Bogini płodności, tkactwa, kobiet i wilgoci.",
+  "attributes": {
+    "Domains": ["Płodność", "Tkactwo", "Przeznaczenie Kobiet"],
+    "Symbols": ["Wrzeciono", "Snop Pszenicy"],
+    "Element": "Ziemia",
+    "Associated Plants": ["Len", "Pszenica"]
+  },
+  "detailImageUrl": "images/deities/003/detailImage.png"
+}

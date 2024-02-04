@@ -1,0 +1,12 @@
+{
+  "id": "001",
+  "name": "Perun",
+  "description": "Slovanský bůh hromu a blesku. Ochránce válečníků.",
+  "attributes": {
+    "Domains": ["Hrom", "Blesk", "Válka", "Právo", "Nebe"],
+    "Symbols": ["Sekera", "Blesk", "Orel"],
+    "Sacred Animals": ["Orel"],
+    "Element": "Vzduch"
+  },
+  "detailImageUrl": "images/deities/001/detailImage.png"
+}

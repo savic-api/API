@@ -1,0 +1,12 @@
+{
+  "id": "012",
+  "name": "Баба Яга",
+  "description": "Могутня відьма з знанням темної магії.",
+  "attributes": {
+    "Domains": ["Магія", "Ліси", "Відьмацтво"],
+    "Symbols": ["Ступа і Пестик", "Хата"],
+    "Element": "Земля",
+    "Associated Concepts": ["Мудрість", "Таємниця"]
+  },
+  "detailImageUrl": "images/deities/012/detailImage.png"
+}

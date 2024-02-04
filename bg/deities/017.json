@@ -1,0 +1,12 @@
+{
+  "id": "017",
+  "name": "Домовина",
+  "description": "Персонификация на родината, пазител на нацията.",
+  "attributes": {
+    "Domains": ["Родина", "Защита", "Единство"],
+    "Symbols": ["Флаг", "Щит"],
+    "Element": "Земя",
+    "Associated Concepts": ["Нация", "Култура"]
+  },
+  "detailImageUrl": "images/deities/017/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "001",
+  "name": "Perun",
+  "description": "Słowiański bóg grzmotu i błyskawic. Obrońca wojowników.",
+  "attributes": {
+    "Domains": ["Grzmot", "Błyskawica", "Wojna", "Prawo", "Niebo"],
+    "Symbols": ["Topór", "Piorun", "Orzeł"],
+    "Sacred Animals": ["Orzeł"],
+    "Element": "Powietrze"
+  },
+  "detailImageUrl": "images/deities/001/detailImage.png"
+}

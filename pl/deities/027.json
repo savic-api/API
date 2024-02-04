@@ -1,0 +1,12 @@
+{
+  "id": "027",
+  "name": "Jasen",
+  "description": "Bóg jesionów i wiosennego wzrostu.",
+  "attributes": {
+    "Domains": ["Drzewa", "Wiosna", "Wzrost"],
+    "Symbols": ["Jesion", "Pączkujące Gałęzie"],
+    "Element": "Ziemia",
+    "Associated Season": "Wiosna"
+  },
+  "detailImageUrl": "images/deities/027/detailImage.png"
+}

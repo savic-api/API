@@ -1,0 +1,12 @@
+{
+  "id": "009",
+  "name": "Чорнобог",
+  "description": "Бог темряви, нещастя та хаосу.",
+  "attributes": {
+    "Domains": ["Темрява", "Зло", "Хаос"],
+    "Symbols": ["Чорний Колір", "Ніч"],
+    "Element": "Тінь",
+    "Associated Concepts": ["Нещастя", "Злоба"]
+  },
+  "detailImageUrl": "images/deities/009/detailImage.png"
+}

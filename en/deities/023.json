@@ -1,0 +1,12 @@
+{
+  "id": "023",
+  "name": "Divi",
+  "description": "Associated with the primal aspects of nature and wilderness.",
+  "attributes": {
+    "Domains": ["Wilderness", "Nature", "Freedom"],
+    "Symbols": ["Untamed Land", "Wild Animals"],
+    "Element": "Earth",
+    "Associated Concepts": ["Unpredictability", "Raw Nature"]
+  },
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

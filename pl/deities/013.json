@@ -1,0 +1,12 @@
+{
+  "id": "013",
+  "name": "Kupała i Kupalo",
+  "description": "Bóstwa przesilenia letniego, płodności i radości.",
+  "attributes": {
+    "Domains": ["Przesilenie Letnie", "Płodność", "Radość"],
+    "Symbols": ["Ogień", "Woda"],
+    "Element": "Ogień i Woda",
+    "Associated Season": "Lato"
+  },
+  "detailImageUrl": "images/deities/013/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "016",
+  "name": "Rusałka",
+  "description": "Vodní nymfy, duchové řek a jezer.",
+  "attributes": {
+    "Domains": ["Voda", "Krása", "Příroda"],
+    "Symbols": ["Řeka", "Jezero"],
+    "Element": "Voda",
+    "Associated Concepts": ["Přitažlivost", "Příroda"]
+  },
+  "detailImageUrl": "images/deities/016/detailImage.png"
+}

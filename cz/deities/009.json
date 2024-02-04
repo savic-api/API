@@ -1,0 +1,12 @@
+{
+  "id": "009",
+  "name": "Chernobog",
+  "description": "Bůh temnoty, neštěstí a chaosu.",
+  "attributes": {
+    "Domains": ["Temnota", "Zlo", "Chaos"],
+    "Symbols": ["Černá barva", "Noc"],
+    "Element": "Stín",
+    "Associated Concepts": ["Neštěstí", "Zloba"]
+  },
+  "detailImageUrl": "images/deities/009/detailImage.png"
+}

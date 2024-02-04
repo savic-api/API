@@ -1,0 +1,12 @@
+{
+  "id": "004",
+  "name": "Велес",
+  "description": "Бог землі, вод, лісів та підземного світу.",
+  "attributes": {
+    "Domains": ["Худоба", "Торгівля", "Підземний світ", "Магія"],
+    "Symbols": ["Ріг", "Ведмідь"],
+    "Sacred Animals": ["Ведмідь", "Вовк", "Худоба"],
+    "Element": "Вода"
+  },
+  "detailImageUrl": "images/deities/004/detailImage.png"
+}

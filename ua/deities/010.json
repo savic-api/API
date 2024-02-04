@@ -1,0 +1,12 @@
+{
+  "id": "010",
+  "name": "Сварог",
+  "description": "Бог вогню, ковальства та сонця.",
+  "attributes": {
+    "Domains": ["Вогонь", "Сонце", "Майстерність"],
+    "Symbols": ["Кузня", "Молот"],
+    "Element": "Вогонь",
+    "Associated Concepts": ["Творіння", "Небо"]
+  },
+  "detailImageUrl": "images/deities/010/detailImage.png"
+}

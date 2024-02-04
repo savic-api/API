@@ -1,0 +1,12 @@
+{
+  "id": "030",
+  "name": "Dobrovij",
+  "description": "Božstvo spojené s dobrotou a laskavostí.",
+  "attributes": {
+    "Domains": ["Dobrota", "Laskavost", "Podpora"],
+    "Symbols": ["Srdce", "Otevřené ruce"],
+    "Element": "Země",
+    "Associated Concepts": ["Charita", "Laskavost"]
+  },
+  "detailImageUrl": "images/deities/030/detailImage.png"
+}

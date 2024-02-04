@@ -1,0 +1,12 @@
+{
+  "id": "024",
+  "name": "Triglav",
+  "description": "Božstvo s třemi hlavami reprezentující různé říše.",
+  "attributes": {
+    "Domains": ["Nebe", "Země", "Podsvětí"],
+    "Symbols": ["Tři hlavy", "Tři říše"],
+    "Element": "Všechny prvky",
+    "Associated Concepts": ["Jednota", "Trojice"]
+  },
+  "detailImageUrl": "images/deities/024/detailImage.png"
+}

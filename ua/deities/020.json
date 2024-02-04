@@ -1,0 +1,12 @@
+{
+  "id": "020",
+  "name": "Сімаргл",
+  "description": "Міфічна істота, часто зображується як крилатий пес або лев.",
+  "attributes": {
+    "Domains": ["Захист", "Опікунство"],
+    "Symbols": ["Крила", "Лев"],
+    "Element": "Повітря",
+    "Associated Concepts": ["Охоронець", "Сила"]
+  },
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

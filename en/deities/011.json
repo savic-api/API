@@ -1,0 +1,12 @@
+{
+  "id": "011",
+  "name": "Marzanna",
+  "description": "Goddess of winter, death, and rebirth.",
+  "attributes": {
+    "Domains": ["Winter", "Death", "Rebirth"],
+    "Symbols": ["Snow", "Doll"],
+    "Element": "Water",
+    "Associated Season": "Winter"
+  },
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

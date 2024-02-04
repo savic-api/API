@@ -1,0 +1,12 @@
+{
+  "id": "027",
+  "name": "Jasan",
+  "description": "Bůh jasanových stromů a jarního růstu.",
+  "attributes": {
+    "Domains": ["Stromy", "Jaro", "Růst"],
+    "Symbols": ["Jasanový strom", "Pučící větve"],
+    "Element": "Země",
+    "Associated Season": "Jaro"
+  },
+  "detailImageUrl": "images/deities/027/detailImage.png"
+}

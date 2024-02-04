@@ -1,0 +1,12 @@
+{
+  "id": "017",
+  "name": "Domovina",
+  "description": "Personifikace vlasti, ochránce národa.",
+  "attributes": {
+    "Domains": ["Vlast", "Ochrana", "Jednota"],
+    "Symbols": ["Vlajka", "Štít"],
+    "Element": "Země",
+    "Associated Concepts": ["Národ", "Kultura"]
+  },
+  "detailImageUrl": "images/deities/017/detailImage.png"
+}

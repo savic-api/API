@@ -1,0 +1,12 @@
+{
+  "id": "019",
+  "name": "Доля и Съдба",
+  "description": "Фигури, представляващи съдбата и предопределението.",
+  "attributes": {
+    "Domains": ["Съдба", "Предопределение", "Житейски път"],
+    "Symbols": ["Конец", "Везни"],
+    "Element": "Етер",
+    "Associated Concepts": ["Шанс", "Предопределение"]
+  },
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

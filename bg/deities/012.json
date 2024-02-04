@@ -1,0 +1,12 @@
+{
+  "id": "012",
+  "name": "Баба Яга",
+  "description": "Мощна вещица със знания за тъмна магия.",
+  "attributes": {
+    "Domains": ["Магия", "Гори", "Вещерство"],
+    "Symbols": ["Хаван и пестил", "Къщичка"],
+    "Element": "Земя",
+    "Associated Concepts": ["Мъдрост", "Мистерия"]
+  },
+  "detailImageUrl": "images/deities/012/detailImage.png"
+}

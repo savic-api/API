@@ -1,0 +1,12 @@
+{
+  "id": "022",
+  "name": "Živa",
+  "description": "Bohyně života, přírody a vitality.",
+  "attributes": {
+    "Domains": ["Život", "Příroda", "Vitalita"],
+    "Symbols": ["Květina", "Sluneční svit"],
+    "Element": "Země",
+    "Associated Concepts": ["Růst", "Zdraví"]
+  },
+  "detailImageUrl": "images/deities/022/detailImage.png"
+}

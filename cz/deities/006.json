@@ -1,0 +1,12 @@
+{
+  "id": "006",
+  "name": "Domovoi",
+  "description": "Domácí duch, ochránce domova a rodiny.",
+  "attributes": {
+    "Domains": ["Domov", "Rodina", "Ochrana"],
+    "Symbols": ["Dům", "Vousy"],
+    "Element": "Země",
+    "Associated Concepts": ["Předkové", "Oheň domácího krbu"]
+  },
+  "detailImageUrl": "images/deities/006/detailImage.png"
+}

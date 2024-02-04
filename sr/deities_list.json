@@ -1,0 +1,178 @@
+{
+  "gods": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "description": "Perun je moćni slovenski bog groma i munje. On nosi čekić i udara zlo munjama. Perun je zaštitnik neba i simbol snage i hrabrosti.",
+      "thumbnailUrl": "images/deities/001/thumbnail.png"
+    },
+    {
+      "id": "002",
+      "name": "Dazhbog",
+      "description": "Dazhbog je svetli bog sunca i davalac bogatstva. On donosi toplotu, svetlost i prosperitet svetu. Ljudi se mole Dazhbogu za bogatu žetvu i svijetlu budućnost.",
+      "thumbnailUrl": "images/deities/002/thumbnail.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokosh",
+      "description": "Mokosh je blaga boginja plodnosti i zaštitnica žena. Ona blagosilja zemlju obiljem i čuva majke i decu. Mokosh se poštuje zbog svojih negujućih i životvornih osobina.",
+      "thumbnailUrl": "images/deities/003/thumbnail.png"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "description": "Veles je bog stoke, trgovine i podzemlja. On čuva stada i vodi trgovce na njihovim putovanjima. Veles je takođe povezan sa mudrošću i skrivenim tajnama zemlje.",
+      "thumbnailUrl": "images/deities/004/thumbnail.png"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "description": "Rod je prvobitno božanstvo, tvorac univerzuma. On je izvor svih života i postojanja. Rod predstavlja večni ciklus rođenja, smrti i ponovnog rođenja.",
+      "thumbnailUrl": "images/deities/005/thumbnail.png"
+    },
+    {
+      "id": "006",
+      "name": "Domovoi",
+      "description": "Domovoi je prijateljski duh kuće i zaštitnik domaćinstva. On pazi na porodicu i obezbeđuje njihovo blagostanje. Domovoi se časti darovima kako bi se očuvala sigurnost domaćinstva.",
+      "thumbnailUrl": "images/deities/006/thumbnail.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "description": "Morozko je personifikacija zime, mraza i hladnoće. On donosi hladnoću zime i pokriva zemlju snegom. Prisustvo Morozka podseća nas na lepotu i izazove hladnog doba.",
+      "thumbnailUrl": "images/deities/007/thumbnail.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorya",
+      "description": "Zorya čine dve boginje koje predstavljaju jutarnju i večernju zvezdu. One čuvaju kapije Dazhbogove palate i obezbeđuju siguran put sunca po nebu. Zorya donosi ravnotežu i red kosmosu.",
+      "thumbnailUrl": "images/deities/008/thumbnail.png"
+    },
+    {
+      "id": "009",
+      "name": "Chernobog",
+      "description": "Chernobog je bog tame, zla i nesreće. On oličava mračne aspekte postojanja i služi kao podsetnik na večnu borbu između svetla i tame.",
+      "thumbnailUrl": "images/deities/009/thumbnail.png"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "description": "Svarog je bog vatre, kovačke veštine i sunca. On je majstor kovač koji svakodnevno kuje sunce. Svarog predstavlja transformacionu moć vatre i toplotu sunca.",
+      "thumbnailUrl": "images/deities/010/thumbnail.png"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna",
+      "description": "Marzanna je boginja zime, smrti i ponovnog rođenja. Ona simbolizuje kraj jednog ciklusa i početak drugog. Marzanna se slavi tokom slovenskog praznika Maslenitsa.",
+      "thumbnailUrl": "images/deities/011/thumbnail.png"
+    },
+    {
+      "id": "012",
+      "name": "Baba Yaga",
+      "description": "Baba Yaga je misteriozna veštica sa nadprirodnim moćima. Ona živi u kući na kokošjim nogama koja se okreće i često je prikazana kao i pomagač i šaljivdžija u slovenskom folkloru.",
+      "thumbnailUrl": "images/deities/012/thumbnail.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupala i Kupalo",
+      "description": "Kupala i Kupalo su božanstva povezana sa letnjim solsticijem, koji se slavi vatrama i ritualima. Oni predstavljaju plodnost i radost leta, a njihov festival obeležava vreme ljubavi i obnove.",
+      "thumbnailUrl": "images/deities/013/thumbnail.png"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "description": "Stribog je bog vetra, vazduha i neba. On kontroliše vetrove i vreme, donoseći kako bonacu, tako i oluje. Stribogovo prisustvo oseća se u blagom povetarcu i snažnoj oluji.",
+      "thumbnailUrl": "images/deities/014/thumbnail.png"
+    },
+    {
+      "id": "015",
+      "name": "Leshy",
+      "description": "Leshy je zloćudni duh šume. Može se pojaviti kao visok, zgodan muškarac ili patuljasta stvorenja. Leshy je zaštitnik životinja i šuma, često vodi putnike na pogrešan put.",
+      "thumbnailUrl": "slike/bogova/015/thumbnail.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka",
+      "description": "Rusałka je vodena nimfa ili stvorenje nalik sireni. Povezana je s vodenim površinama i često je prikazana kao prelepo, zavodljivo biće. Prisustvo Rusałke je privlačno i misteriozno.",
+      "thumbnailUrl": "images/deities/016/thumbnail.png"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "description": "Domovina je personifikacija domovine ili otadžbine. Ona simbolizuje duboku vezu slovenskih ljudi sa svojom očinskom zemljom i osećajem pripadnosti.",
+      "thumbnailUrl": "images/deities/017/thumbnail.png"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "description": "Jarilo je bog proleća, plodnosti i žetve. On predstavlja ponovno rađanje života i rast useva. Jarilova proslava dočekuje dolazak proleća i obećanje obilja.",
+      "thumbnailUrl": "images/deities/018/thumbnail.png"
+    },
+    {
+      "id": "019",
+      "name": "Dolya i Sudba",
+      "description": "Dolya i Sudba su figure koje predstavljaju sudbinu i destinu. Oni oblikuju tok ljudskih života, tkajući niti sudbine i usmeravajući pojedince ka njihovim sudbinama.",
+      "thumbnailUrl": "images/deities/019/thumbnail.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "description": "Simargl je mitsko stvorenje, često prikazivano kao krilati pas ili lav. On je simbol snage, zaštite i božanske moći. Simargl je i veličanstven i divlje biće u slovenskoj mitologiji.",
+      "thumbnailUrl": "images/deities/020/thumbnail.png"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "description": "Veleslav je manje poznata figura koja je mudra i poštovana. Povezana je sa mudrošću, znanjem i drevnim tradicijama. Veleslav utelovljuje mudrost vekova.",
+      "thumbnailUrl": "images/deities/021/thumbnail.png"
+    },
+    {
+      "id": "022",
+      "name": "Zhiva",
+      "description": "Zhiva je boginja života, plodnosti i prirode. Ona je simbol vitalnosti i obilja prirodnog sveta. Zhiva se poštuje zbog svoje uloge u održavanju života.",
+      "thumbnailUrl": "images/deities/022/thumbnail.png"
+    },
+    {
+      "id": "023",
+      "name": "Divi",
+      "description": "Divi je povezan sa divljim, neukrotivim aspektima prirode. On predstavlja primitivne sile divljine i tajne prirodnog sveta. Divi je nepredvidljiv i zadivljujući.",
+      "thumbnailUrl": "images/deities/023/thumbnail.png"
+    },
+    {
+      "id": "024",
+      "name": "Triglav",
+      "description": "Triglav je božanstvo sa tri glave, simbolizujući nebo, zemlju i podzemlje. On predstavlja povezanost kosmosa i jedinstvo svega. Triglav utelovljuje kosmičku ravnotežu.",
+      "thumbnailUrl": "images/deities/024/thumbnail.png"
+    },
+    {
+      "id": "025",
+      "name": "Zhivini Pole",
+      "description": "Zhivini Pole je mitsko mesto, čarobno polje ili livada. To je mesto čuda i očaranja često posećivano u slovenskom folkloru. Zhivini Pole je carstvo misterije i avanture.",
+      "thumbnailUrl": "images/deities/025/thumbnail.png"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "description": "Roda je boginja plodnosti, majčinstva i porodice. Ona je zaštitnica ognjišta i doma, obezbeđujući dobrobit porodica i kontinuitet generacija.",
+      "thumbnailUrl": "images/deities/026/thumbnail.png"
+    },
+    {
+      "id": "027",
+      "name": "Yasen",
+      "description": "Yasen je bog jasena i prolećnih drveća. On predstavlja obnovu i rast šuma u proleće. Prisustvo Yasena se oseća u pupoljcima lišća i buđenju prirode.",
+      "thumbnailUrl": "images/deities/027/thumbnail.png"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "description": "Lada je boginja lepote, ljubavi i harmonije. Ona utelovljuje ideale gracioznosti i elegancije. Prisustvo Lade donosi ljubav, radost i ravnotežu svetu.",
+      "thumbnailUrl": "images/deities/028/thumbnail.png"
+    },
+   {
+      "id": "030",
+      "name": "Dobrovij",
+      "description": "Dobrovij je božanstvo povezano sa dobrotom i blagonaklonošću. On predstavlja čine ljubaznosti i pozitivne namere. Dobrovij podstiče ljude da teže ka dobru u svojim postupcima.",
+      "thumbnailUrl": "images/deities/030/thumbnail.png"
+    }
+  ]
+}

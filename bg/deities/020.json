@@ -1,0 +1,12 @@
+{
+  "id": "020",
+  "name": "Симаргъл",
+  "description": "Митично същество, често изобразявано като крилато куче или лъв.",
+  "attributes": {
+    "Domains": ["Защита", "Пазителство"],
+    "Symbols": ["Крила", "Лъв"],
+    "Element": "Въздух",
+    "Associated Concepts": ["Пазител", "Сила"]
+  },
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

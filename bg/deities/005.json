@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "name": "Род",
+  "description": "Първичен творец божество, предшественик на всички същества и богове.",
+  "attributes": {
+    "Domains": ["Създание", "Произход", "Космос"],
+    "Symbols": ["Космическо яйце", "Дърво на живота"],
+    "Element": "Етер",
+    "Associated Concepts": ["Съдба", "Промисъл"]
+  },
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

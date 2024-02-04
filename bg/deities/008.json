@@ -1,0 +1,12 @@
+{
+  "id": "008",
+  "name": "Зоря",
+  "description": "Две богини, представляващи звездите на сутринта и вечерта.",
+  "attributes": {
+    "Domains": ["Звезда на сутринта", "Звезда на вечерта", "Защита"],
+    "Symbols": ["Звезди", "Небесна светлина"],
+    "Element": "Небе",
+    "Associated Concepts": ["Наставление", "Преход"]
+  },
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}

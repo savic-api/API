@@ -1,0 +1,12 @@
+{
+  "id": "021",
+  "name": "Велеслав",
+  "description": "Мъдра фигура, представляваща славянското наследство и мъдрост.",
+  "attributes": {
+    "Domains": ["Мъдрост", "Наследство", "Традиция"],
+    "Symbols": ["Книга", "Древен скрипт"],
+    "Element": "Земя",
+    "Associated Concepts": ["Знание", "Предци"]
+  },
+  "detailImageUrl": "images/deities/021/detailImage.png"
+}

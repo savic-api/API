@@ -1,0 +1,12 @@
+{
+  "id": "029",
+  "name": "Днепър",
+  "description": "Божество, персонифициращо река Днепър.",
+  "attributes": {
+    "Domains": ["Река", "Течение", "Живот"],
+    "Symbols": ["Вода", "Тръстика"],
+    "Element": "Вода",
+    "Associated Concepts": ["Движение", "Подхранване"]
+  },
+  "detailImageUrl": "images/deities/029/detailImage.png"
+}

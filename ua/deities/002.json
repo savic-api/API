@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "name": "Дажбог",
+  "description": "Бог сонця, часто асоціюється з багатством, щастям та покровительством.",
+  "attributes": {
+    "Domains": ["Сонце", "Багатство", "Щастя"],
+    "Symbols": ["Сонячний Диск", "Колісниця"],
+    "Element": "Вогонь",
+    "Season": "Літо"
+  },
+  "detailImageUrl": "images/deities/002/detailImage.png"
+}

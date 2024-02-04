@@ -1,0 +1,12 @@
+{
+  "id": "015",
+  "name": "Леший",
+  "description": "Дух на гората, пазител на дивата природа.",
+  "attributes": {
+    "Domains": ["Гора", "Дива природа", "Природа"],
+    "Symbols": ["Дървета", "Животни"],
+    "Element": "Земя",
+    "Associated Concepts": ["Защита", "Шеги"]
+  },
+  "detailImageUrl": "images/deities/015/detailImage.png"
+}

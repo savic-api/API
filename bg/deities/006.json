@@ -1,0 +1,12 @@
+{
+  "id": "006",
+  "name": "Домовой",
+  "description": "Домашен дух, пазител на дома и семейството.",
+  "attributes": {
+    "Domains": ["Дом", "Семейство", "Защита"],
+    "Symbols": ["Къща", "Брада"],
+    "Element": "Земя",
+    "Associated Concepts": ["Произход", "Огнище"]
+  },
+  "detailImageUrl": "images/deities/006/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "006",
+  "name": "Domowoj",
+  "description": "Duch domowy, strażnik domu i rodziny.",
+  "attributes": {
+    "Domains": ["Dom", "Rodzina", "Ochrona"],
+    "Symbols": ["Dom", "Broda"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Przodkowie", "Ognisko domowe"]
+  },
+  "detailImageUrl": "images/deities/006/detailImage.png"
+}

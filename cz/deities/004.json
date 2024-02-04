@@ -1,0 +1,12 @@
+{
+  "id": "004",
+  "name": "Veles",
+  "description": "Bůh země, vod, lesů a podsvětí.",
+  "attributes": {
+    "Domains": ["Dobytek", "Obchod", "Podsvětí", "Magie"],
+    "Symbols": ["Roh", "Medvěd"],
+    "Sacred Animals": ["Medvěd", "Vlk", "Dobytek"],
+    "Element": "Voda"
+  },
+  "detailImageUrl": "images/deities/004/detailImage.png"
+}

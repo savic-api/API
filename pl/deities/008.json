@@ -1,0 +1,12 @@
+{
+  "id": "008",
+  "name": "Zorya",
+  "description": "Dwie boginie reprezentujące gwiazdę poranną i wieczorną.",
+  "attributes": {
+    "Domains": ["Gwiazda Poranna", "Gwiazda Wieczorna", "Ochrona"],
+    "Symbols": ["Gwiazdy", "Celestynalne Światło"],
+    "Element": "Niebo",
+    "Associated Concepts": ["Przewodnictwo", "Przejście"]
+  },
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}

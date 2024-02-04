@@ -1,0 +1,12 @@
+{
+  "id": "008",
+  "name": "Зоря",
+  "description": "Дві богині, що представляють ранкову та вечірню зірки.",
+  "attributes": {
+    "Domains": ["Ранкова Зірка", "Вечірня Зірка", "Захист"],
+    "Symbols": ["Зірки", "Небесне Світло"],
+    "Element": "Небо",
+    "Associated Concepts": ["Наставництво", "Перехід"]
+  },
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "010",
+  "name": "Svarog",
+  "description": "God of fire, blacksmithing, and the sun.",
+  "attributes": {
+    "Domains": ["Fire", "Sun", "Craftsmanship"],
+    "Symbols": ["Forge", "Hammer"],
+    "Element": "Fire",
+    "Associated Concepts": ["Creation", "Sky"]
+  },
+  "detailImageUrl": "images/deities/010/detailImage.png"
+}

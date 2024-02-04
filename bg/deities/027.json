@@ -1,0 +1,12 @@
+{
+  "id": "027",
+  "name": "Ясен",
+  "description": "Бог на ясеновите дървета и пролетния растеж.",
+  "attributes": {
+    "Domains": ["Дървета", "Пролет", "Растеж"],
+    "Symbols": ["Ясен", "Поникващи клонки"],
+    "Element": "Земя",
+    "Associated Season": "Пролет"
+  },
+  "detailImageUrl": "images/deities/027/detailImage.png"
+}

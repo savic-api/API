@@ -1,0 +1,12 @@
+{
+  "id": "022",
+  "name": "Żywia",
+  "description": "Bogini życia, natury i witalności.",
+  "attributes": {
+    "Domains": ["Życie", "Natura", "Witalność"],
+    "Symbols": ["Kwiat", "Światło Słońca"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Wzrost", "Zdrowie"]
+  },
+  "detailImageUrl": "images/deities/022/detailImage.png"
+}

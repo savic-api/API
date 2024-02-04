@@ -1,0 +1,12 @@
+{
+  "id": "025",
+  "name": "Живини Поле",
+  "description": "Митично поле или ливада, символизираща изобилие и магия.",
+  "attributes": {
+    "Domains": ["Изобилие", "Природа", "Магия"],
+    "Symbols": ["Ливада", "Диви цветя"],
+    "Element": "Земя",
+    "Associated Concepts": ["Плодородие", "Процъфтяване"]
+  },
+  "detailImageUrl": "images/deities/025/detailImage.png"
+}
