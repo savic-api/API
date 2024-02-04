@@ -1,0 +1,12 @@
+{
+  "id": "016",
+  "name": "Rusałka",
+  "description": "Nimfy wodne, duchy rzek i jezior.",
+  "attributes": {
+    "Domains": ["Woda", "Piękno", "Natura"],
+    "Symbols": ["Rzeka", "Jezioro"],
+    "Element": "Woda",
+    "Associated Concepts": ["Czar", "Natura"]
+  },
+  "detailImageUrl": "images/deities/016/detailImage.png"
+}

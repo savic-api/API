@@ -1,0 +1,12 @@
+{
+  "id": "029",
+  "name": "Дніпро",
+  "description": "Божество, що уособлює річку Дніпро.",
+  "attributes": {
+    "Domains": ["Річка", "Течія", "Життя"],
+    "Symbols": ["Вода", "Очерет"],
+    "Element": "Вода",
+    "Associated Concepts": ["Рух", "Живлення"]
+  },
+  "detailImageUrl": "images/deities/029/detailImage.png"
+}

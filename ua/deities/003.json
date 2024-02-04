@@ -1,0 +1,12 @@
+{
+  "id": "003",
+  "name": "Мокош",
+  "description": "Богиня плодючості, ткацтва, жінок і вологи.",
+  "attributes": {
+    "Domains": ["Плодючість", "Ткацтво", "Доля жінок"],
+    "Symbols": ["Веретено", "Сноп пшениці"],
+    "Element": "Земля",
+    "Associated Plants": ["Льон", "Пшениця"]
+  },
+  "detailImageUrl": "images/deities/003/detailImage.png"
+}

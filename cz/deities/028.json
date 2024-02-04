@@ -1,0 +1,12 @@
+{
+  "id": "028",
+  "name": "Lada",
+  "description": "Bohyně krásy, lásky a harmonie.",
+  "attributes": {
+    "Domains": ["Krása", "Láska", "Harmonie"],
+    "Symbols": ["Růže", "Zrcadlo"],
+    "Element": "Vzduch",
+    "Associated Concepts": ["Přitažlivost", "Mír"]
+  },
+  "detailImageUrl": "images/deities/028/detailImage.png"
+}

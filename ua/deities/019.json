@@ -1,0 +1,12 @@
+{
+  "id": "019",
+  "name": "Доля та Судьба",
+  "description": "Фігури, що представляють долю та призначення.",
+  "attributes": {
+    "Domains": ["Доля", "Призначення", "Життєвий шлях"],
+    "Symbols": ["Нитка", "Терези"],
+    "Element": "Ефір",
+    "Associated Concepts": ["Випадок", "Предопределення"]
+  },
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

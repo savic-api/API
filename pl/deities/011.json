@@ -1,0 +1,12 @@
+{
+  "id": "011",
+  "name": "Marzanna",
+  "description": "Bogini zimy, śmierci i odrodzenia.",
+  "attributes": {
+    "Domains": ["Zima", "Śmierć", "Odrodzenie"],
+    "Symbols": ["Śnieg", "Lalka"],
+    "Element": "Woda",
+    "Associated Season": "Zima"
+  },
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

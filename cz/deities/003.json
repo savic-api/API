@@ -1,0 +1,12 @@
+{
+  "id": "003",
+  "name": "Mokoš",
+  "description": "Bohyně plodnosti, tkaní, žen a vlhkosti.",
+  "attributes": {
+    "Domains": ["Plodnost", "Tkaní", "Osud žen"],
+    "Symbols": ["Vřeteno", "Snop pšenice"],
+    "Element": "Země",
+    "Associated Plants": ["Len", "Pšenice"]
+  },
+  "detailImageUrl": "images/deities/003/detailImage.png"
+}

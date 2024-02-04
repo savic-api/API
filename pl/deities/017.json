@@ -1,0 +1,13 @@
+{
+  "id": "017",
+  "name": "Domowina",
+  "description": "Personifikacja ojczyzny, opiekunka narodu.",
+  "attributes": {
+    "Domains": ["Ojczyzna", "Ochrona", "Jedność"],
+    "Symbols": ["Flaga", "Tarcza"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Naród", "Kultura"]
+  },
+  "detailImageUrl": "images/deities/017/detailImage.png"
+}
+

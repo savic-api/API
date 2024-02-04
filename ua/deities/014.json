@@ -1,0 +1,12 @@
+{
+  "id": "014",
+  "name": "Стрибог",
+  "description": "Бог вітру, повітря та неба.",
+  "attributes": {
+    "Domains": ["Вітер", "Повітря", "Небо"],
+    "Symbols": ["Вітер", "Хмара"],
+    "Element": "Повітря",
+    "Associated Concepts": ["Рух", "Зміна"]
+  },
+  "detailImageUrl": "images/deities/014/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "018",
+  "name": "Jarilo",
+  "description": "Bůh jara, plodnosti a sklizně.",
+  "attributes": {
+    "Domains": ["Jaro", "Plodnost", "Sklizeň"],
+    "Symbols": ["Zeleň", "Pšenice"],
+    "Element": "Země",
+    "Associated Season": "Jaro"
+  },
+  "detailImageUrl": "images/deities/018/detailImage.png"
+}

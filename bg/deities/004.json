@@ -1,0 +1,12 @@
+{
+  "id": "004",
+  "name": "Велес",
+  "description": "Бог на земята, водите, горите и подземния свят.",
+  "attributes": {
+    "Domains": ["Добитък", "Търговия", "Подземен свят", "Магия"],
+    "Symbols": ["Рог", "Мечка"],
+    "Sacred Animals": ["Мечка", "Вълк", "Добитък"],
+    "Element": "Вода"
+  },
+  "detailImageUrl": "images/deities/004/detailImage.png"
+}

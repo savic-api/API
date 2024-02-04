@@ -1,0 +1,184 @@
+{
+  "gods": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "description": "Perun je mocný slovanský bůh hromu a blesku. Má v ruce kladivo, kterým srazí zlo blesky. Perun je ochráncem nebes a symbolem síly a odvahy.",
+      "thumbnailUrl": "images/deities/001/thumbnail.png"
+    },
+    {
+      "id": "002",
+      "name": "Dazhbog",
+      "description": "Dazhbog je zářivý bůh slunce a dárce bohatství. Přináší světlo, teplo a prosperitu světu. Lidé se modlí k Dazhbogovi za bohatou úrodu a světlou budoucnost.",
+      "thumbnailUrl": "images/deities/002/thumbnail.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokosh",
+      "description": "Mokosh je něžná bohyně plodnosti a ochránkyně žen. Žehná zemi hojností a dohlíží na matky a děti. Mokosh je ctěna pro své pečovatelské a dávající život vlastnosti.",
+      "thumbnailUrl": "images/deities/003/thumbnail.png"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "description": "Veles je bůh dobytka, obchodu a podsvětí. Hlídá stáda a vede obchodníky na jejich cestách. Veles je také spojen s moudrostí a skrytými tajemstvími země.",
+      "thumbnailUrl": "images/deities/004/thumbnail.png"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "description": "Rod je prapůvodní božstvo, stvořitel vesmíru. Je zdrojem veškerého života a existence. Rod představuje věčný cyklus narození, smrti a znovuzrození.",
+      "thumbnailUrl": "images/deities/005/thumbnail.png"
+    },
+    {
+      "id": "006",
+      "name": "Domovoi",
+      "description": "Domovoi je přátelský duch domova a ochránce domu. Sleduje rodinu a zajišťuje její blahobyt. Domovoi je ctěn oběťmi, aby udržel domácnost v bezpečí.",
+      "thumbnailUrl": "images/deities/006/thumbnail.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "description": "Morozko je personifikací zimy, mrazu a chladu. Přináší zimní chlad a pokrývá zemi sněhem. Přítomnost Morozka nám připomíná krásu a výzvy chladné sezóny.",
+      "thumbnailUrl": "images/deities/007/thumbnail.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorya",
+      "description": "Zorya se skládá ze dvou bohyň reprezentujících ranní a večerní hvězdy. Hlídají brány Dazhbogova paláce a zajišťují bezpečnou cestu slunce po obloze. Zorya přináší rovnováhu a řád do kosmu.",
+      "thumbnailUrl": "images/deities/008/thumbnail.png"
+    },
+    {
+      "id": "009",
+      "name": "Chernobog",
+      "description": "Chernobog je bůh temnoty, zla a neštěstí. Uosobňuje stinné aspekty existence a připomíná věčný boj mezi světlem a temnotou.",
+      "thumbnailUrl": "images/deities/009/thumbnail.png"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "description": "Svarog je bůh ohně, kovářství a slunce. Je mistrovským řemeslníkem, který každý den kuje slunce. Svarog představuje transformační sílu ohně a teplo slunce.",
+      "thumbnailUrl": "images/deities/010/thumbnail.png"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna",
+      "description": "Marzanna je bohyně zimy, smrti a znovuzrození. Symbolizuje konec jednoho cyklu a začátek dalšího. Marzanna je oslavována během slovanského svátku Maslenice.",
+      "thumbnailUrl": "images/deities/011/thumbnail.png"
+    },
+    {
+      "id": "012",
+      "name": "Baba Yaga",
+      "description": "Baba Jaga je tajemná čarodějnice s nadpřirozenými silami. Žije v otáčející se chatě na kuřích nohách a je často zobrazována jako pomocník i šibal v slovanském folklóru.",
+      "thumbnailUrl": "images/deities/012/thumbnail.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupala and Kupalo",
+      "description": "Kupala a Kupalo jsou božstva spojená s letním slunovratem, slavená ohňostroji a rituály. Představují plodnost a radost léta, a jejich festival značí čas lásky a obnovy.",
+      "thumbnailUrl": "images/deities/013/thumbnail.png"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "description": "Stribog je bůh větru, vzduchu a nebe. Ovládá větry a počasí, přináší klid i bouře. Přítomnost Striboga je cítit v jemném vánek a v silné vichřici.",
+      "thumbnailUrl": "images/deities/014/thumbnail.png"
+    },
+    {
+      "id": "015",
+      "name": "Leshy",
+      "description": "Leshy je zlobivý duch lesa. Může se objevit jako vysoký, pohledný muž nebo jako trpasličí stvoření. Leshy je ochráncem zvířat a lesů, a často vede cestovatele na scestí.",
+      "thumbnailUrl": "images/deities/015/thumbnail.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka",
+      "description": "Rusałka je vodní nymfa nebo stvoření podobné mořské panně. Je spojena s vodními těly a často zobrazena jako krásné, okouzlující bytosti. Přítomnost Rusałky je lákavá a tajemná.",
+      "thumbnailUrl": "images/deities/016/thumbnail.png"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "description": "Domovina je personifikace vlasti nebo mateřské země. Symbolizuje hluboké spojení slovanských lidí s jejich předky a pocit příslušnosti.",
+      "thumbnailUrl": "images/deities/017/thumbnail.png"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "description": "Jarilo je bůh jara, plodnosti a sklizně. Představuje znovuzrození života a růst plodin. Jarilův festival vítá příchod jara a slib hojnosti.",
+      "thumbnailUrl": "images/deities/018/thumbnail.png"
+    },
+    {
+      "id": "019",
+      "name": "Dolya and Sudba",
+      "description": "Dolya a Sudba jsou postavy představující osud a osud. Formují běh lidských životů, splétají nitě štěstí a vedou jednotlivce k jejich osudu.",
+      "thumbnailUrl": "images/deities/019/thumbnail.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "description": "Simargl je mýtická bytost, často zobrazovaná jako okřídlený pes nebo lev. Je symbolem síly, ochrany a božské moci. Simargl je ve slovanské mytologii majestátní a hrozivý.",
+      "thumbnailUrl": "images/deities/020/thumbnail.png"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "description": "Veleslav je méně známá postava, moudrá a ctěná. Je spojen s moudrostí, znalostmi a starodávnými tradicemi. Veleslav ztělesňuje moudrost věků.",
+      "thumbnailUrl": "images/deities/021/thumbnail.png"
+    },
+    {
+      "id": "022",
+      "name": "Zhiva",
+      "description": "Zhiva je bohyně života, plodnosti a přírody. Je symbolem vitality a hojnosti přírodního světa. Zhiva je ctěna za svou roli v udržení života.",
+      "thumbnailUrl": "images/deities/022/thumbnail.png"
+    },
+    {
+      "id": "023",
+      "name": "Divi",
+      "description": "Divi je spojen s divokými, nezkrotnými aspekty přírody. Představuje prvotní síly divočiny a tajemství přírodního světa. Divi je nepředvídatelný a úžasný.",
+      "thumbnailUrl": "images/deities/023/thumbnail.png"
+    },
+    {
+      "id": "024",
+      "name": "Triglav",
+      "description": "Triglav je božstvo se třemi hlavami, symbolizující nebe, zemi a podsvětí. Představuje propojenost kosmu a jednotu všeho. Triglav ztělesňuje kosmickou rovnováhu.",
+      "thumbnailUrl": "images/deities/024/thumbnail.png"
+    },
+    {
+      "id": "025",
+      "name": "Zhivini Pole",
+      "description": "Zhivini Pole je mýtické místo, magické pole nebo louka. Je to místo zázraků a kouzel, často navštěvované ve slovanském folklóru. Zhivini Pole je říše tajemství a dobrodružství.",
+      "thumbnailUrl": "images/deities/025/thumbnail.png"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "description": "Roda je bohyně plodnosti, mateřství a rodiny. Je ochránkyní krbu a domova, zajišťuje blahobyt rodin a kontinuitu generací.",
+      "thumbnailUrl": "images/deities/026/thumbnail.png"
+    },
+    {
+      "id": "027",
+      "name": "Yasen",
+      "description": "Yasen je bůh jasanů a jarních stromů. Představuje obnovu a růst lesů na jaře. Přítomnost Yasena je cítit v rašících listech a probouzející se přírodě.",
+      "thumbnailUrl": "images/deities/027/thumbnail.png"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "description": "Lada je bohyně krásy, lásky a harmonie. Vtěluje ideály grácie a elegance. Přítomnost Lady přináší do světa lásku, radost a rovnováhu.",
+      "thumbnailUrl": "images/deities/028/thumbnail.png"
+    },
+    {
+      "id": "029",
+      "name": "Dnipro",
+      "description": "Dnipro je personifikace řeky Dněpr, důležité vodní cesty ve slovanských zemích. Řeka je zdrojem obživy, obchodu a kulturního významu.",
+      "thumbnailUrl": "images/deities/029/thumbnail.png"
+    },
+    {
+      "id": "030",
+      "name": "Dobrovij",
+      "description": "Dobrovij je božstvo spojené s dobrem a laskavostí. Představuje akty laskavosti a pozitivní záměry. Dobrovij povzbuzuje lidi, aby usilovali o dobro ve svých činech.",
+      "thumbnailUrl": "images/deities/030/thumbnail.png"
+    }
+  ]
+}

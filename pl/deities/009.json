@@ -1,0 +1,12 @@
+{
+  "id": "009",
+  "name": "Czarnobóg",
+  "description": "Bóg ciemności, nieszczęścia i chaosu.",
+  "attributes": {
+    "Domains": ["Ciemność", "Zło", "Chaos"],
+    "Symbols": ["Czarny Kolor", "Noc"],
+    "Element": "Cień",
+    "Associated Concepts": ["Nieszczęście", "Niechęć"]
+  },
+  "detailImageUrl": "images/deities/009/detailImage.png"
+}

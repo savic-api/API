@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "name": "Dazhbog",
+  "description": "God of the sun, often associated with wealth, happiness, and patronage.",
+  "attributes": {
+    "Domains": ["Sun", "Wealth", "Happiness"],
+    "Symbols": ["Sun Disk", "Chariot"],
+    "Element": "Fire",
+    "Season": "Summer"
+  },
+  "detailImageUrl": "images/deities/002/detailImage.png"
+}

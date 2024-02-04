@@ -1,0 +1,12 @@
+{
+  "id": "021",
+  "name": "Veleslav",
+  "description": "Moudrá postava reprezentující slovanské dědictví a moudrost.",
+  "attributes": {
+    "Domains": ["Moudrost", "Dědictví", "Tradice"],
+    "Symbols": ["Kniha", "Starý skript"],
+    "Element": "Země",
+    "Associated Concepts": ["Vědění", "Předkové"]
+  },
+  "detailImageUrl": "images/deities/021/detailImage.png"
+}

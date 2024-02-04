@@ -1,0 +1,12 @@
+{
+  "id": "018",
+  "name": "Ярило",
+  "description": "Бог на пролетта, плодородието и жетвата.",
+  "attributes": {
+    "Domains": ["Пролет", "Плодородие", "Жетва"],
+    "Symbols": ["Зеленина", "Пшеница"],
+    "Element": "Земя",
+    "Associated Season": "Пролет"
+  },
+  "detailImageUrl": "images/deities/018/detailImage.png"
+}

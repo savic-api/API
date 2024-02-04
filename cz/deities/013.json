@@ -1,0 +1,12 @@
+{
+  "id": "013",
+  "name": "Kupala a Kupalo",
+  "description": "Božstva letního slunovratu, plodnosti a radosti.",
+  "attributes": {
+    "Domains": ["Letní slunovrat", "Plodnost", "Radost"],
+    "Symbols": ["Oheň", "Voda"],
+    "Element": "Oheň a Voda",
+    "Associated Season": "Léto"
+  },
+  "detailImageUrl": "images/deities/013/detailImage.png"
+}

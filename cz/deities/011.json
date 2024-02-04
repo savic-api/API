@@ -1,0 +1,12 @@
+{
+  "id": "011",
+  "name": "Marzanna",
+  "description": "Bohyně zimy, smrti a znovuzrození.",
+  "attributes": {
+    "Domains": ["Zima", "Smrt", "Znovuzrození"],
+    "Symbols": ["Sníh", "Panenka"],
+    "Element": "Voda",
+    "Associated Season": "Zima"
+  },
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

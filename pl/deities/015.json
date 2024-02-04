@@ -1,0 +1,12 @@
+{
+  "id": "015",
+  "name": "Leszy",
+  "description": "Duch lasu, opiekun dzikiej przyrody.",
+  "attributes": {
+    "Domains": ["Las", "Dzika przyroda", "Natura"],
+    "Symbols": ["Drzewa", "Zwierzęta"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Ochrona", "Psoty"]
+  },
+  "detailImageUrl": "images/deities/015/detailImage.png"
+}

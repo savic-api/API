@@ -1,0 +1,12 @@
+{
+  "id": "013",
+  "name": "Купала и Купало",
+  "description": "Божества на лятното слънцестоене, плодородие и радост.",
+  "attributes": {
+    "Domains": ["Лятно слънцестоене", "Плодородие", "Радост"],
+    "Symbols": ["Огън", "Вода"],
+    "Element": "Огън и Вода",
+    "Associated Season": "Лято"
+  },
+  "detailImageUrl": "images/deities/013/detailImage.png"
+}

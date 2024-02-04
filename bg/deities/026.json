@@ -1,0 +1,12 @@
+{
+  "id": "026",
+  "name": "Рода",
+  "description": "Богиня на плодородието, майчинството и семейството.",
+  "attributes": {
+    "Domains": ["Плодородие", "Майчинство", "Семейство"],
+    "Symbols": ["Огнище", "Сноп пшеница"],
+    "Element": "Земя",
+    "Associated Concepts": ["Защита", "Отглеждане"]
+  },
+  "detailImageUrl": "images/deities/026/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "030",
+  "name": "Добровид",
+  "description": "Божество, асоциирано с доброта и благожелателност.",
+  "attributes": {
+    "Domains": ["Доброта", "Благожелателност", "Подкрепа"],
+    "Symbols": ["Сърце", "Отворени ръце"],
+    "Element": "Земя",
+    "Associated Concepts": ["Благотворителност", "Добрина"]
+  },
+  "detailImageUrl": "images/deities/030/detailImage.png"
+}

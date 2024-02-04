@@ -1,0 +1,12 @@
+{
+  "id": "023",
+  "name": "Divi",
+  "description": "Spojená s prapůvodními aspekty přírody a divočiny.",
+  "attributes": {
+    "Domains": ["Divočina", "Příroda", "Svoboda"],
+    "Symbols": ["Nezkrocená země", "Divoká zvířata"],
+    "Element": "Země",
+    "Associated Concepts": ["Nepředvídatelnost", "Surová příroda"]
+  },
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

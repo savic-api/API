@@ -1,0 +1,12 @@
+{
+  "id": "023",
+  "name": "Диви",
+  "description": "Асоциирана с първичните аспекти на природата и дивината.",
+  "attributes": {
+    "Domains": ["Дивина", "Природа", "Свобода"],
+    "Symbols": ["Непокорена земя", "Диви животни"],
+    "Element": "Земя",
+    "Associated Concepts": ["Непредсказуемост", "Сурова природа"]
+  },
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

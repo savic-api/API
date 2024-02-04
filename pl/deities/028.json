@@ -1,0 +1,12 @@
+{
+  "id": "028",
+  "name": "Lada",
+  "description": "Bogini piękna, miłości i harmonii.",
+  "attributes": {
+    "Domains": ["Piękno", "Miłość", "Harmonia"],
+    "Symbols": ["Róża", "Lustro"],
+    "Element": "Powietrze",
+    "Associated Concepts": ["Przyciąganie", "Pokój"]
+  },
+  "detailImageUrl": "images/deities/028/detailImage.png"
+}

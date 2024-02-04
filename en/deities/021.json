@@ -1,0 +1,12 @@
+{
+  "id": "021",
+  "name": "Veleslav",
+  "description": "A wise figure representing Slavic heritage and wisdom.",
+  "attributes": {
+    "Domains": ["Wisdom", "Heritage", "Tradition"],
+    "Symbols": ["Book", "Ancient Script"],
+    "Element": "Earth",
+    "Associated Concepts": ["Knowledge", "Ancestry"]
+  },
+  "detailImageUrl": "images/deities/021/detailImage.png"
+}

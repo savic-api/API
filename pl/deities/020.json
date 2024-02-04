@@ -1,0 +1,12 @@
+{
+  "id": "020",
+  "name": "Simargl",
+  "description": "Mityczne stworzenie, często przedstawiane jako skrzydlaty pies lub lew.",
+  "attributes": {
+    "Domains": ["Ochrona", "Opieka"],
+    "Symbols": ["Skrzydła", "Lew"],
+    "Element": "Powietrze",
+    "Associated Concepts": ["Strażnik", "Siła"]
+  },
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

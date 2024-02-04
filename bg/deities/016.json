@@ -1,0 +1,12 @@
+{
+  "id": "016",
+  "name": "Русалка",
+  "description": "Водни нимфи, духове на реки и езера.",
+  "attributes": {
+    "Domains": ["Вода", "Красота", "Природа"],
+    "Symbols": ["Река", "Езеро"],
+    "Element": "Вода",
+    "Associated Concepts": ["Привлекателност", "Природа"]
+  },
+  "detailImageUrl": "images/deities/016/detailImage.png"
+}

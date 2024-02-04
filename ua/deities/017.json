@@ -1,0 +1,12 @@
+{
+  "id": "017",
+  "name": "Домовина",
+  "description": "Персоніфікація батьківщини, захисник нації.",
+  "attributes": {
+    "Domains": ["Батьківщина", "Захист", "Єдність"],
+    "Symbols": ["Прапор", "Щит"],
+    "Element": "Земля",
+    "Associated Concepts": ["Нація", "Культура"]
+  },
+  "detailImageUrl": "images/deities/017/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "030",
+  "name": "Добровій",
+  "description": "Божество, асоційоване з добротою та благодійністю.",
+  "attributes": {
+    "Domains": ["Доброта", "Благодійність", "Підтримка"],
+    "Symbols": ["Серце", "Відкриті Долоні"],
+    "Element": "Земля",
+    "Associated Concepts": ["Милосердя", "Ласка"]
+  },
+  "detailImageUrl": "images/deities/030/detailImage.png"
+}

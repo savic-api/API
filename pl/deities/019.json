@@ -1,0 +1,12 @@
+{
+  "id": "019",
+  "name": "Dola i Sudba",
+  "description": "Postacie reprezentujące los i przeznaczenie.",
+  "attributes": {
+    "Domains": ["Los", "Przeznaczenie", "Ścieżka Życia"],
+    "Symbols": ["Nić", "Waga"],
+    "Element": "Eter",
+    "Associated Concepts": ["Szansa", "Predestynacja"]
+  },
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "012",
+  "name": "Baba Jaga",
+  "description": "Mocná čarodějnice s vědomostmi o temné magii.",
+  "attributes": {
+    "Domains": ["Magie", "Lesy", "Čarodějnictví"],
+    "Symbols": ["Hmoždíř a palička", "Chalupa"],
+    "Element": "Země",
+    "Associated Concepts": ["Moudrost", "Tajemství"]
+  },
+  "detailImageUrl": "images/deities/012/detailImage.png"
+}

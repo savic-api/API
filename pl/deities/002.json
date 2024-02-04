@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "name": "Dazhbog",
+  "description": "Bóg słońca, często kojarzony z bogactwem, szczęściem i patronatem.",
+  "attributes": {
+    "Domains": ["Słońce", "Bogactwo", "Szczęście"],
+    "Symbols": ["Dysk Słoneczny", "Rydwany"],
+    "Element": "Ogień",
+    "Season": "Lato"
+  },
+  "detailImageUrl": "images/deities/002/detailImage.png"
+}

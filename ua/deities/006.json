@@ -1,0 +1,12 @@
+{
+  "id": "006",
+  "name": "Домовик",
+  "description": "Дух домашнього вогнища, охоронець дому та сім'ї.",
+  "attributes": {
+    "Domains": ["Дім", "Сім'я", "Захист"],
+    "Symbols": ["Будинок", "Борода"],
+    "Element": "Земля",
+    "Associated Concepts": ["Родовід", "Домашній вогнище"]
+  },
+  "detailImageUrl": "images/deities/006/detailImage.png"
+}

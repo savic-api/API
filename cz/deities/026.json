@@ -1,0 +1,12 @@
+{
+  "id": "026",
+  "name": "Roda",
+  "description": "Bohyně plodnosti, mateřství a rodiny.",
+  "attributes": {
+    "Domains": ["Plodnost", "Mateřství", "Rodina"],
+    "Symbols": ["Oheň domácího krbu", "Snop pšenice"],
+    "Element": "Země",
+    "Associated Concepts": ["Ochrana", "Péče"]
+  },
+  "detailImageUrl": "images/deities/026/detailImage.png"
+}

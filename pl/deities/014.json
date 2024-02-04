@@ -1,0 +1,12 @@
+{
+  "id": "014",
+  "name": "Stribog",
+  "description": "Bóg wiatru, powietrza i nieba.",
+  "attributes": {
+    "Domains": ["Wiatr", "Powietrze", "Niebo"],
+    "Symbols": ["Wiatr", "Chmura"],
+    "Element": "Powietrze",
+    "Associated Concepts": ["Ruch", "Zmiana"]
+  },
+  "detailImageUrl": "images/deities/014/detailImage.png"
+}

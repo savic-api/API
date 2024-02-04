@@ -1,0 +1,12 @@
+{
+  "id": "029",
+  "name": "Dnipro",
+  "description": "Božstvo personifikující řeku Dněpr.",
+  "attributes": {
+    "Domains": ["Řeka", "Proudění", "Život"],
+    "Symbols": ["Voda", "Rákosí"],
+    "Element": "Voda",
+    "Associated Concepts": ["Pohyb", "Výživa"]
+  },
+  "detailImageUrl": "images/deities/029/detailImage.png"
+}

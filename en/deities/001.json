@@ -1,0 +1,12 @@
+{
+  "id": "001",
+  "name": "Perun",
+  "description": "Slavic god of thunder and lightning. Protector of warriors.",
+  "attributes": {
+    "Domains": ["Thunder", "Lightning", "War", "Law", "Sky"],
+    "Symbols": ["Axe", "Thunderbolt", "Eagle"],
+    "Sacred Animals": ["Eagle"],
+    "Element": "Air"
+  },
+  "detailImageUrl": "images/deities/001/detailImage.png"
+}

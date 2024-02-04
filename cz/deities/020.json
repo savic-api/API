@@ -1,0 +1,12 @@
+{
+  "id": "020",
+  "name": "Simargl",
+  "description": "Mytická bytost, často zobrazovaná jako křídlatý pes nebo lev.",
+  "attributes": {
+    "Domains": ["Ochrana", "Strážná služba"],
+    "Symbols": ["Křídla", "Lev"],
+    "Element": "Vzduch",
+    "Associated Concepts": ["Strážce", "Síla"]
+  },
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

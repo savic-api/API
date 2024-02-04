@@ -1,0 +1,12 @@
+{
+  "id": "011",
+  "name": "Марзана",
+  "description": "Богиня на зимата, смъртта и прераждането.",
+  "attributes": {
+    "Domains": ["Зима", "Смърт", "Прераждане"],
+    "Symbols": ["Сняг", "Кукла"],
+    "Element": "Вода",
+    "Associated Season": "Зима"
+  },
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

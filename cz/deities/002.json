@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "name": "Dažbog",
+  "description": "Bůh slunce, často spojovaný s bohatstvím, štěstím a patronátem.",
+  "attributes": {
+    "Domains": ["Slunce", "Bohatství", "Štěstí"],
+    "Symbols": ["Sluneční disk", "Vůz"],
+    "Element": "Oheň",
+    "Season": "Léto"
+  },
+  "detailImageUrl": "images/deities/002/detailImage.png"
+}

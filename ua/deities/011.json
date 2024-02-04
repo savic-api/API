@@ -1,0 +1,12 @@
+{
+  "id": "011",
+  "name": "Марзанна",
+  "description": "Богиня зими, смерті та відродження.",
+  "attributes": {
+    "Domains": ["Зима", "Смерть", "Відродження"],
+    "Symbols": ["Сніг", "Лялька"],
+    "Element": "Вода",
+    "Associated Season": "Зима"
+  },
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

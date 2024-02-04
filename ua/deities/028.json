@@ -1,0 +1,12 @@
+{
+  "id": "028",
+  "name": "Лада",
+  "description": "Богиня краси, любові та гармонії.",
+  "attributes": {
+    "Domains": ["Краса", "Любов", "Гармонія"],
+    "Symbols": ["Троянда", "Дзеркало"],
+    "Element": "Повітря",
+    "Associated Concepts": ["Привабливість", "Мир"]
+  },
+  "detailImageUrl": "images/deities/028/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "018",
+  "name": "Jarilo",
+  "description": "Bóg wiosny, płodności i żniw.",
+  "attributes": {
+    "Domains": ["Wiosna", "Płodność", "Żniwa"],
+    "Symbols": ["Zieleń", "Pszenica"],
+    "Element": "Ziemia",
+    "Associated Season": "Wiosna"
+  },
+  "detailImageUrl": "images/deities/018/detailImage.png"
+}

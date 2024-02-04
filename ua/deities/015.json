@@ -1,0 +1,12 @@
+{
+  "id": "015",
+  "name": "Лісовик",
+  "description": "Дух лісу, захисник дикої природи.",
+  "attributes": {
+    "Domains": ["Ліс", "Дика природа", "Природа"],
+    "Symbols": ["Дерева", "Тварини"],
+    "Element": "Земля",
+    "Associated Concepts": ["Захист", "Витівки"]
+  },
+  "detailImageUrl": "images/deities/015/detailImage.png"
+}

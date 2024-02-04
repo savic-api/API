@@ -1,0 +1,12 @@
+{
+  "id": "015",
+  "name": "Leshy",
+  "description": "Duch lesa, ochránce divoké přírody.",
+  "attributes": {
+    "Domains": ["Les", "Divoká příroda", "Příroda"],
+    "Symbols": ["Stromy", "Zvířata"],
+    "Element": "Země",
+    "Associated Concepts": ["Ochrana", "Šibalství"]
+  },
+  "detailImageUrl": "images/deities/015/detailImage.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "012",
+  "name": "Baba Jaga",
+  "description": "Potężna wiedźma znająca ciemną magię.",
+  "attributes": {
+    "Domains": ["Magia", "Lasy", "Czarostwo"],
+    "Symbols": ["Moździerz i Tłuczek", "Chata"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Mądrość", "Tajemnica"]
+  },
+  "detailImageUrl": "images/deities/012/detailImage.png"
+}

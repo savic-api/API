@@ -1,0 +1,12 @@
+{
+  "id": "007",
+  "name": "Morozko",
+  "description": "Personifikacja mrozu, zimy i chłodu.",
+  "attributes": {
+    "Domains": ["Zima", "Mróz", "Chłód"],
+    "Symbols": ["Lód", "Płatek śniegu"],
+    "Element": "Woda",
+    "Associated Season": "Zima"
+  },
+  "detailImageUrl": "images/deities/007/detailImage.png"
+}

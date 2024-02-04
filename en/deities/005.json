@@ -1,0 +1,12 @@
+{
+  "id": "005",
+  "name": "Rod",
+  "description": "Primordial creator deity, the ancestor of all beings and gods.",
+  "attributes": {
+    "Domains": ["Creation", "Ancestry", "Cosmos"],
+    "Symbols": ["Cosmic Egg", "Tree of Life"],
+    "Element": "Aether",
+    "Associated Concepts": ["Fate", "Providence"]
+  },
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

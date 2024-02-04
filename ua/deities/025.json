@@ -1,0 +1,12 @@
+{
+  "id": "025",
+  "name": "Живини Поле",
+  "description": "Міфічне поле або лука, символізує достаток та магію.",
+  "attributes": {
+    "Domains": ["Достаток", "Природа", "Магія"],
+    "Symbols": ["Лука", "Дикі квіти"],
+    "Element": "Земля",
+    "Associated Concepts": ["Плодючість", "Добробут"]
+  },
+  "detailImageUrl": "images/deities/025/detailImage.png"
+}

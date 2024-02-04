@@ -1,0 +1,12 @@
+{
+  "id": "007",
+  "name": "Morozko",
+  "description": "Personifikace mrazu, zimy a chladu.",
+  "attributes": {
+    "Domains": ["Zima", "Mráz", "Chlad"],
+    "Symbols": ["Led", "Sněhová vločka"],
+    "Element": "Voda",
+    "Associated Season": "Zima"
+  },
+  "detailImageUrl": "images/deities/007/detailImage.png"
+}

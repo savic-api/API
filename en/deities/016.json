@@ -1,0 +1,12 @@
+{
+  "id": "016",
+  "name": "Rusałka",
+  "description": "Water nymphs, spirits of rivers and lakes.",
+  "attributes": {
+    "Domains": ["Water", "Beauty", "Nature"],
+    "Symbols": ["River", "Lake"],
+    "Element": "Water",
+    "Associated Concepts": ["Allure", "Nature"]
+  },
+  "detailImageUrl": "images/deities/016/detailImage.png"
+}

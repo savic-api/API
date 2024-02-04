@@ -1,0 +1,12 @@
+{
+  "id": "022",
+  "name": "Жива",
+  "description": "Богиня життя, природи та життєвої сили.",
+  "attributes": {
+    "Domains": ["Життя", "Природа", "Життєва сила"],
+    "Symbols": ["Квітка", "Сонячне світло"],
+    "Element": "Земля",
+    "Associated Concepts": ["Зростання", "Здоров'я"]
+  },
+  "detailImageUrl": "images/deities/022/detailImage.png"
+}

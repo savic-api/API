@@ -1,0 +1,12 @@
+{
+  "id": "008",
+  "name": "Zorya",
+  "description": "Dvě bohyně reprezentující ranní a večerní hvězdu.",
+  "attributes": {
+    "Domains": ["Ranní hvězda", "Večerní hvězda", "Ochrana"],
+    "Symbols": ["Hvězdy", "Nebeské světlo"],
+    "Element": "Nebe",
+    "Associated Concepts": ["Vedení", "Přechod"]
+  },
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}
